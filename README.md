@@ -1,2 +1,12 @@
 # regulatory-tracking-tool
-Oliver project repository for e41f608d-b4a0-450a-9118-d37cbb7e4c67
+
+Oliver project repository.
+
+## Folder Structure
+
+- `repository/workflow-analysis/`
+- `repository/business-case/`
+- `repository/ai-opportunity-assessment/`
+- `repository/functional-prototype/`
+- `repository/technical-specifications/`
+- `repository/meeting-notes/`
