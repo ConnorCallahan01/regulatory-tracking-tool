@@ -2,8 +2,21 @@
   "version": "1.0",
   "projectId": "e41f608d-b4a0-450a-9118-d37cbb7e4c67",
   "createdAt": "2026-02-05T22:19:16.247Z",
-  "updatedAt": "2026-02-05T22:19:16.247Z",
-  "files": [],
+  "updatedAt": "2026-02-05T22:26:32.016Z",
+  "files": [
+    {
+      "id": "79e732b2-8e96-4c42-952d-e77d825320aa",
+      "name": "Regulatory Tracker - User Journey and Decision Points.md",
+      "path": "repository/workflow-analysis/Regulatory Tracker - User Journey and Decision Points.md",
+      "folder": "workflow-analysis",
+      "mimeType": "application/octet-stream",
+      "size": 8684,
+      "sha": "e229221538b897a222c081f325bd9beb16ac3503",
+      "createdAt": "2026-02-05T22:26:31.664Z",
+      "updatedAt": "2026-02-05T22:26:31.664Z",
+      "tags": []
+    }
+  ],
   "externalLinks": [],
-  "storageUsed": 0
+  "storageUsed": 8684
 }
